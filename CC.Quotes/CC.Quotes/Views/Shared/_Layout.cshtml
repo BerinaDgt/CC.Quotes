@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="~/Scripts/jquery-1quotes.js"></script>
+    <link rel="stylesheet" href="~/Content/templatemo_style.css" type="text/css" media="all" />
+</head>
+<body>
+    <div id="templatemo_container">
+        <div id="templatemo_menu">
+            <ul>
+                <li><a href="~/Home/Index" class="current">Home</a></li>
+                <li><a href="~/Author/Index">Authors</a></li>
+                <li><a href="#">New Releases</a></li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li><a href="~/Account/LogOut">Log Out</a></li>
+                }
+                else
+                {
+                <li><a href="~/Account/LogIn">Login</a></li>
+                <li><a href="~/Account/Register">Register</a></li>
+                }
+            </ul>
+        </div> <!-- end of menu -->
+
+        <div id="templatemo_header">
+        <h1>Best Quotes</h1>
+          
+                
+                    <div class="quotes">
+                    </div>
+           
+
+
+         
+        </div> <!-- end of header -->
+      
+            @RenderBody()
+            <hr />
+        <div id="templatemo_footer">
+
+            <a href="subpage.html">Home</a> | <a href="subpage.html">Search</a> | <a href="subpage.html">Books</a> | <a href="#">New Releases</a> | <a href="#">FAQs</a> | <a href="#">Contact Us</a><br />
+            &copy; @DateTime.Now.Year -<a href="#"><strong> My ASP.NET Application  </strong></a>
+            <!-- Credit: www.templatemo.com -->
+        </div>
+        <!-- end of footer -->
+           
+       
+</div>
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+        @RenderSection("js", false)
+    <script>
+        var quotes = [" “Early to bed and early to rise, makes a man healthy wealthy and wise.“   - Benjamin Franklin",
+  " “The greatest wealth is Health.“   - V.L.Allineare",
+  " “Let food be thy medicine and medicine be thy food.“   - Hippocrates ",
+  " “Health is a relationship between you and your body.“   - Terri Guillemets",
+  " “If you do not take care of your body, where are you going to live?“   - Arlen Specter",
+  " “Life expectancy would grow by leaps and bounds if green vegetables smelled as good as bacon.“   - Doug Larson",
+  " “Those who think they have no time for healthy eating, will sooner or later have to find time for illness“   - Edward Stanley"
+        ];
+
+        //function random quoute/
+        $(".quotes").text(quotes[0]);
+
+        function changeQuote() {
+            var randomly = quotes[Math.floor(Math.random() * quotes.length)];
+            var display = $(".quotes");
+            display.text(randomly);
+        };
+        setInterval(function () {
+            changeQuote();
+        }, 10000);
+    </script>
+</body>
+</html>

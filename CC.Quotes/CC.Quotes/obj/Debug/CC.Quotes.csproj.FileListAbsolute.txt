@@ -1,0 +1,134 @@
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\ApplicationInsights.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\csc.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\vbc.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.dll.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Antlr3.Runtime.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.Web.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Newtonsoft.Json.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Helpers.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Optimization.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\WebGrease.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.Web.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Helpers.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Optimization.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Antlr3.Runtime.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\Newtonsoft.Json.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\obj\Debug\CC.Quotes.csprojResolveAssemblyReference.cache
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\obj\Debug\CC.Quotes.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\obj\Debug\CC.Quotes.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.Interfaces.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.RepositoryEF.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\EntityFramework.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\EntityFramework.SqlServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.Entities.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.Interfaces.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\CC.Quotes.RepositoryEF.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\EntityFramework.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\EntityFramework.SqlServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\PagedList.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\PagedList.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\PagedList.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes\bin\PagedList.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\ApplicationInsights.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\csc.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\vbc.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\VBCSCompiler.exe
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.dll.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Antlr3.Runtime.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.Interfaces.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.RepositoryEF.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\EntityFramework.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\EntityFramework.SqlServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.Web.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Newtonsoft.Json.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\PagedList.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\PagedList.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Helpers.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Optimization.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\WebGrease.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.Entities.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.Interfaces.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\CC.Quotes.RepositoryEF.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\EntityFramework.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\EntityFramework.SqlServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.Web.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\PagedList.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\PagedList.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Helpers.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Optimization.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\System.Web.WebPages.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Antlr3.Runtime.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\bin\Newtonsoft.Json.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\obj\Debug\CC.Quotes.csprojResolveAssemblyReference.cache
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\obj\Debug\CC.Quotes.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes\obj\Debug\CC.Quotes.pdb

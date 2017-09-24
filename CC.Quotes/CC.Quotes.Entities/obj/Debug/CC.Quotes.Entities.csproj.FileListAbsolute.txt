@@ -1,0 +1,44 @@
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.dll.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\PagedList.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\PagedList.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\PagedList.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\PagedList.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.dll.config
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\CC.Quotes.Entities.pdb
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\PagedList.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\PagedList.Mvc.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.Razor.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\PagedList.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\PagedList.Mvc.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.Razor.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.dll
+C:\Users\Berina\Desktop\FINAL MVC\CC.Quotes - Copy\CC.Quotes.Entities\obj\Debug\CC.Quotes.Entities.pdb
